@@ -10,5 +10,6 @@ I have implemented a basic model in Keras.
 
 - [x] Implement a basic Transformer in Keras
 - [x] Complete forward pass
+- [ ] Organize code
 - [ ] Data Pipeline
 - [ ] Train
