@@ -3,8 +3,8 @@ Inspired from [VirTex](https://github.com/kdexd/virtex): Learning Visual Represe
 Karan Desai and Justin Johnson<br>University of Michigan 
 
 
-Authors focused on learnning Visual representation of CNN using a transformer on top of CNN feature map to generate captions.
-The idea is that by using captions, CNN may learn better representations than using only the labels of images.
+Authors focused on learning Visual representation of CNN using a transformer on top of CNN feature map to generate captions.
+The idea is that by using captions, CNN may learn better representations than using the labels of images only.
 
 I have implemented a basic model in Keras.
 
