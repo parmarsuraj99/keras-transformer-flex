@@ -13,3 +13,5 @@ I have implemented a basic model in Keras.
 - [ ] Organize code
 - [ ] Data Pipeline
 - [ ] Train
+- [ ] Evaluate
+- [ ] Deploy with Streamlit
